@@ -2,6 +2,7 @@
 ## A visual journal through screenshots
 ### takes a screenshot every day (I have mine set at 4 o' clock)
 ### made with github pages, p5, python, and uh what else, that's it I think, does cron count as a framework?
+### inspired by the screenshots in Ian cheng's "Emissary's Guide to Worlding" 
 
 
 # make your own
