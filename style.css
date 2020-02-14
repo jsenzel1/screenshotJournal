@@ -1,7 +1,26 @@
 html, body {
   margin: 0;
   padding: 0;
+
+  font-family: "Space Mono", monospace;
+  text-align: center;
+  
+  
 }
 canvas {
   display: block;
+}
+
+p{
+  font-size: 1.3em;
+  font-style: italic;
+  font-weight: 100;
+  
+
+}
+
+img{
+  max-width: 93%;
+  height: auto;
+  border-radius: 5px;
 }
