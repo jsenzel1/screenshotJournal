@@ -4,7 +4,7 @@ let dates = [];
 function setup() {
   masterIndex = loadStrings("/int.txt", loadTxt);
   // masterIndex = loadStrings("/int.txt", loadTxt);
-
+  noCanvas();
 
 }
 
@@ -18,7 +18,7 @@ function loadTxt(incomingString) {
 
 
 function mySetup() {
-  createCanvas(400, 400);
+
 
   print(masterIndex[0]);
 

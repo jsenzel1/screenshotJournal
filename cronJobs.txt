@@ -1,0 +1,2 @@
+* 16 * * * python3 /Users/Jonah/githubProjects/screenshotJournal/taker.py
+* 16 * * * osascript -e 'tell app "System Events" to display dialog "Screenshot Taken"'
