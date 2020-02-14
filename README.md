@@ -49,6 +49,6 @@ thes are also included in the "cronJobs.txt" file
 # That should be it!
 am I forgetting something? I'm probably forgetting something. If you have any issues, email me at jsenzel1@gmail.com and I'll be happy to help you out with anything and everything
 
-Best
+Best,
 
 Jonah
