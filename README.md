@@ -6,6 +6,7 @@
 
 
 # make your own
+# (Note: been having problems with permissions and such on mac running from cron, so now there's a mac app version that you can use to manually take numbered shots. the rest of this may or may not work) 
 
 Note: this will work natively on mac and I believe linux, and not on windows (sorry)
 
