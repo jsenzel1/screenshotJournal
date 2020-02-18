@@ -12,6 +12,10 @@ canvas {
   display: block;
 }
 
+a:visited{
+  color: black;
+}
+
 h1{
   font-size: 2.4em;
   font-weight: 700;
